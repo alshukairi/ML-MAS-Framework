@@ -33,3 +33,15 @@ If you find our repo, dataset or paper useful, please cite us as
   year = {2017}
 }
 ```
+
+## Reference for the TransFuser team project for using "Longest6 Benchmark"
+```bibtex
+@inproceedings{Prakash2021CVPR,
+  author = {Prakash, Aditya and
+            Chitta, Kashyap and
+            Geiger, Andreas},
+  title = {Multi-Modal Fusion Transformer for End-to-End Autonomous Driving},
+  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2021}
+}
+```

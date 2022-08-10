@@ -1,3 +1,6 @@
+#  The ML-MAS CARLA-JASON Bridge (Server Part).
+#  (C) University of Aberdeen - Hilal Al Shukairi
+
 import socket
 import collections
 import time

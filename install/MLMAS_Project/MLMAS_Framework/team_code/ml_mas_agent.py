@@ -1,3 +1,5 @@
+#  The ML-MAS Integration Class.
+#  (C) University of Aberdeen - Hilal Al Shukairi
 
 from jason_carla_bridge import JasonCarlaBridge
 from agents.navigation.basic_agent import BasicAgent
